@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Download](https://img.shields.io/badge/Download-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![Download](https://img.shields.io/badge/Download-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@ You use the plans you already pay for. The app signs in through separate Chrome 
 
 ## ⬇️ Download
 
-Grab the build for your system from the **[Releases page](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)**:
+Grab the build for your system from the **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)**:
 
 | Platform | File | How to run |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<version>-Windows-64bit.exe` | Download and run |
-| **Windows** ARM64 | `SanXuatPhim-<version>-Windows-ARM64.exe` | Download and run |
-| **Linux** 64-bit | `SanXuatPhim-<version>-Linux-64bit` | `chmod +x`, then run |
-| **macOS** (universal) | `SanXuatPhim-<version>-macOS.zip` | Unzip to get the `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | Download and run |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | Download and run |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x`, then run |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | Unzip to get the `.app` |
 
 Each release ships a **`checksums.json`** (name · size · SHA‑256 of every file) so you can verify integrity, and so the app can update itself.
 
@@ -127,6 +127,6 @@ The app reads `checksums.json` from the latest release and updates itself in pla
 
 **© sanxuatphim.com — All rights reserved.**
 
-This repository hosts the **packaged releases** and `checksums.json` only. The source code is not public.
+S3 hosts the **packaged releases** and `checksums.json` only. The source code is not public.
 
 </div>

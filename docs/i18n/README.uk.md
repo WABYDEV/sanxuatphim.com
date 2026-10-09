@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Завантажити](https://img.shields.io/badge/%D0%97%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B8%D1%82%D0%B8-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![Завантажити](https://img.shields.io/badge/%D0%97%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B8%D1%82%D0%B8-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@
 
 ## ⬇️ Завантажити
 
-Візьміть збірку для вашої системи на **[сторінці Releases](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)**:
+Візьміть збірку для вашої системи на **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)**:
 
 | Платформа | Файл | Як запустити |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<версія>-Windows-64bit.exe` | Завантажте й запустіть |
-| **Windows** ARM64 | `SanXuatPhim-<версія>-Windows-ARM64.exe` | Завантажте й запустіть |
-| **Linux** 64-bit | `SanXuatPhim-<версія>-Linux-64bit` | `chmod +x`, потім запустіть |
-| **macOS** (universal) | `SanXuatPhim-<версія>-macOS.zip` | Розпакуйте, щоб отримати `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | Завантажте й запустіть |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | Завантажте й запустіть |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x`, потім запустіть |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | Розпакуйте, щоб отримати `.app` |
 
 Кожен випуск містить **`checksums.json`** (ім'я · розмір · SHA‑256 кожного файлу) для перевірки цілісності та самооновлення застосунку.
 
@@ -127,6 +127,6 @@
 
 **© sanxuatphim.com — Усі права захищено.**
 
-Цей репозиторій містить лише **запаковані випуски** та `checksums.json`. Вихідний код закритий.
+S3 містить лише **запаковані випуски** та `checksums.json`. Вихідний код закритий.
 
 </div>

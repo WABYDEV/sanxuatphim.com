@@ -15,7 +15,7 @@
 
 <br/>
 
-[![다운로드](https://img.shields.io/badge/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![다운로드](https://img.shields.io/badge/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@
 
 ## ⬇️ 다운로드
 
-**[Releases 페이지](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)** 에서 사용 중인 시스템용 빌드를 받으세요:
+**[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)** 에서 사용 중인 시스템용 빌드를 받으세요:
 
 | 플랫폼 | 파일 | 실행 방법 |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<버전>-Windows-64bit.exe` | 다운로드 후 실행 |
-| **Windows** ARM64 | `SanXuatPhim-<버전>-Windows-ARM64.exe` | 다운로드 후 실행 |
-| **Linux** 64-bit | `SanXuatPhim-<버전>-Linux-64bit` | `chmod +x` 후 실행 |
-| **macOS** (universal) | `SanXuatPhim-<버전>-macOS.zip` | 압축을 풀어 `.app` 얻기 |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | 다운로드 후 실행 |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | 다운로드 후 실행 |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` 후 실행 |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | 압축을 풀어 `.app` 얻기 |
 
 각 릴리스에는 **`checksums.json`**(각 파일의 이름 · 크기 · SHA‑256)이 포함되어 무결성 검증과 앱 자동 업데이트에 사용됩니다.
 
@@ -127,6 +127,6 @@
 
 **© sanxuatphim.com — 모든 권리 보유.**
 
-이 저장소는 **패키지된 릴리스**와 `checksums.json`만 호스팅합니다. 소스 코드는 공개되지 않습니다.
+S3는 **패키지된 릴리스**와 `checksums.json`만 호스팅합니다. 소스 코드는 공개되지 않습니다.
 
 </div>

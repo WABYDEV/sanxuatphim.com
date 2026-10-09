@@ -15,7 +15,7 @@
 
 <br/>
 
-[![ダウンロード](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![ダウンロード](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@
 
 ## ⬇️ ダウンロード
 
-**[Releases ページ](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)** からお使いのシステム向けのビルドを入手してください：
+**[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)** からお使いのシステム向けのビルドを入手してください：
 
 | プラットフォーム | ファイル | 実行方法 |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<バージョン>-Windows-64bit.exe` | ダウンロードして実行 |
-| **Windows** ARM64 | `SanXuatPhim-<バージョン>-Windows-ARM64.exe` | ダウンロードして実行 |
-| **Linux** 64-bit | `SanXuatPhim-<バージョン>-Linux-64bit` | `chmod +x` して実行 |
-| **macOS** (universal) | `SanXuatPhim-<バージョン>-macOS.zip` | 解凍して `.app` を取得 |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | ダウンロードして実行 |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | ダウンロードして実行 |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` して実行 |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | 解凍して `.app` を取得 |
 
 各リリースには **`checksums.json`**（各ファイルの名前・サイズ・SHA‑256）が付属し、整合性の検証とアプリの自動更新に使われます。
 
@@ -127,6 +127,6 @@
 
 **© sanxuatphim.com — 無断転載を禁じます。**
 
-このリポジトリは**パッケージ済みリリース**と `checksums.json` のみを置いています。ソースコードは非公開です。
+S3は**パッケージ済みリリース**と `checksums.json` のみを置いています。ソースコードは非公開です。
 
 </div>

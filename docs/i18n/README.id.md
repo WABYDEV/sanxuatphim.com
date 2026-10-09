@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Unduh](https://img.shields.io/badge/Unduh-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![Unduh](https://img.shields.io/badge/Unduh-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@ Anda memakai paket yang sudah Anda bayar. Aplikasi masuk melalui profil Chrome t
 
 ## ⬇️ Unduh
 
-Ambil build untuk sistem Anda di **[halaman Releases](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)**:
+Ambil build untuk sistem Anda di **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)**:
 
 | Platform | Berkas | Cara menjalankan |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<versi>-Windows-64bit.exe` | Unduh lalu jalankan |
-| **Windows** ARM64 | `SanXuatPhim-<versi>-Windows-ARM64.exe` | Unduh lalu jalankan |
-| **Linux** 64-bit | `SanXuatPhim-<versi>-Linux-64bit` | `chmod +x`, lalu jalankan |
-| **macOS** (universal) | `SanXuatPhim-<versi>-macOS.zip` | Ekstrak untuk mendapatkan `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | Unduh lalu jalankan |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | Unduh lalu jalankan |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x`, lalu jalankan |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | Ekstrak untuk mendapatkan `.app` |
 
 Setiap rilis menyertakan **`checksums.json`** (nama · ukuran · SHA‑256 tiap berkas) untuk memverifikasi integritas dan agar aplikasi bisa memperbarui diri.
 
@@ -127,6 +127,6 @@ Aplikasi membaca `checksums.json` dari rilis terbaru dan memperbarui diri di tem
 
 **© sanxuatphim.com — Hak cipta dilindungi.**
 
-Repositori ini hanya menampung **rilis terpaket** dan `checksums.json`. Kode sumber tidak publik.
+S3 hanya menampung **rilis terpaket** dan `checksums.json`. Kode sumber tidak publik.
 
 </div>

@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Tải về](https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![Tải về](https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@ Bạn dùng chính gói đang trả tiền. Ứng dụng đăng nhập qua các 
 
 ## ⬇️ Tải về
 
-Lấy bản cho hệ điều hành của bạn ở **[trang Releases](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)**:
+Lấy bản cho hệ điều hành của bạn ở **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)**:
 
 | Nền tảng | Tệp | Cách chạy |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<phiên bản>-Windows-64bit.exe` | Tải về rồi chạy |
-| **Windows** ARM64 | `SanXuatPhim-<phiên bản>-Windows-ARM64.exe` | Tải về rồi chạy |
-| **Linux** 64-bit | `SanXuatPhim-<phiên bản>-Linux-64bit` | `chmod +x` rồi chạy |
-| **macOS** (universal) | `SanXuatPhim-<phiên bản>-macOS.zip` | Giải nén lấy `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | Tải về rồi chạy |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | Tải về rồi chạy |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` rồi chạy |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | Giải nén lấy `.app` |
 
 Mỗi bản phát hành kèm **`checksums.json`** (tên · cỡ · SHA‑256 của từng tệp) để kiểm toàn vẹn và cho ứng dụng tự cập nhật.
 
@@ -127,6 +127,6 @@ Mua key hoặc dùng thử tại **[sanxuatphim.com](https://sanxuatphim.com)**.
 
 **© sanxuatphim.com — Mọi quyền được bảo lưu.**
 
-Kho này chỉ chứa **bản phát hành đã đóng gói** và `checksums.json`. Mã nguồn không công khai.
+S3 chỉ chứa **bản phát hành đã đóng gói** và `checksums.json`. Mã nguồn không công khai.
 
 </div>

@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Télécharger](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![Télécharger](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@ Vous utilisez les forfaits que vous payez déjà. L'app se connecte via des prof
 
 ## ⬇️ Télécharger
 
-Récupérez la version pour votre système sur la **[page des Releases](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)** :
+Récupérez la version pour votre système sur la **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)** :
 
 | Plateforme | Fichier | Comment lancer |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<version>-Windows-64bit.exe` | Téléchargez et lancez |
-| **Windows** ARM64 | `SanXuatPhim-<version>-Windows-ARM64.exe` | Téléchargez et lancez |
-| **Linux** 64-bit | `SanXuatPhim-<version>-Linux-64bit` | `chmod +x` puis lancez |
-| **macOS** (universal) | `SanXuatPhim-<version>-macOS.zip` | Décompressez pour obtenir le `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | Téléchargez et lancez |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | Téléchargez et lancez |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` puis lancez |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | Décompressez pour obtenir le `.app` |
 
 Chaque version fournit un **`checksums.json`** (nom · taille · SHA‑256 de chaque fichier) pour vérifier l'intégrité et permettre à l'app de se mettre à jour.
 
@@ -127,6 +127,6 @@ L'app lit le `checksums.json` de la dernière version et se met à jour sur plac
 
 **© sanxuatphim.com — Tous droits réservés.**
 
-Ce dépôt n'héberge que les **versions empaquetées** et `checksums.json`. Le code source n'est pas public.
+S3 n'héberge que les **versions empaquetées** et `checksums.json`. Le code source n'est pas public.
 
 </div>

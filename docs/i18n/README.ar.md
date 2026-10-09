@@ -15,7 +15,7 @@
 
 <br/>
 
-[![تنزيل](https://img.shields.io/badge/%D8%AA%D9%86%D8%B2%D9%8A%D9%84-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![تنزيل](https://img.shields.io/badge/%D8%AA%D9%86%D8%B2%D9%8A%D9%84-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -77,14 +77,14 @@
 
 ## ⬇️ تنزيل
 
-احصل على الإصدار المناسب لنظامك من **[صفحة Releases](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)**:
+احصل على الإصدار المناسب لنظامك من **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)**:
 
 | المنصّة | الملف | طريقة التشغيل |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<الإصدار>-Windows-64bit.exe` | نزّل ثم شغّل |
-| **Windows** ARM64 | `SanXuatPhim-<الإصدار>-Windows-ARM64.exe` | نزّل ثم شغّل |
-| **Linux** 64-bit | `SanXuatPhim-<الإصدار>-Linux-64bit` | ‏`chmod +x` ثم شغّل |
-| **macOS** (universal) | `SanXuatPhim-<الإصدار>-macOS.zip` | فك الضغط للحصول على `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | نزّل ثم شغّل |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | نزّل ثم شغّل |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | ‏`chmod +x` ثم شغّل |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | فك الضغط للحصول على `.app` |
 
 يأتي كل إصدار مع **`checksums.json`** (الاسم · الحجم · SHA‑256 لكل ملف) للتحقق من السلامة ولكي يحدّث التطبيق نفسه.
 
@@ -131,6 +131,6 @@
 
 **© sanxuatphim.com — جميع الحقوق محفوظة.**
 
-يستضيف هذا المستودع **الإصدارات المحزومة** و`checksums.json` فقط. الشيفرة المصدرية غير علنية.
+يستضيف S3 **الإصدارات المحزومة** و`checksums.json` فقط. الشيفرة المصدرية غير علنية.
 
 </div>

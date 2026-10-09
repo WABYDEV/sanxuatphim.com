@@ -15,7 +15,7 @@
 
 <br/>
 
-[![ڈاؤن لوڈ](https://img.shields.io/badge/%DA%88%D8%A7%D8%A4%D9%86%20%D9%84%D9%88%DA%88-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![ڈاؤن لوڈ](https://img.shields.io/badge/%DA%88%D8%A7%D8%A4%D9%86%20%D9%84%D9%88%DA%88-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -77,14 +77,14 @@
 
 ## ⬇️ ڈاؤن لوڈ
 
-اپنے سسٹم کے لیے بلڈ **[Releases صفحہ](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)** سے حاصل کریں:
+اپنے سسٹم کے لیے بلڈ **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)** سے حاصل کریں:
 
 | پلیٹ فارم | فائل | کیسے چلائیں |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<ورژن>-Windows-64bit.exe` | ڈاؤن لوڈ کریں اور چلائیں |
-| **Windows** ARM64 | `SanXuatPhim-<ورژن>-Windows-ARM64.exe` | ڈاؤن لوڈ کریں اور چلائیں |
-| **Linux** 64-bit | `SanXuatPhim-<ورژن>-Linux-64bit` | ‏`chmod +x` پھر چلائیں |
-| **macOS** (universal) | `SanXuatPhim-<ورژن>-macOS.zip` | `.app` حاصل کرنے کے لیے ان زپ کریں |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | ڈاؤن لوڈ کریں اور چلائیں |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | ڈاؤن لوڈ کریں اور چلائیں |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | ‏`chmod +x` پھر چلائیں |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | `.app` حاصل کرنے کے لیے ان زپ کریں |
 
 ہر ریلیز کے ساتھ **`checksums.json`** (ہر فائل کا نام · حجم · SHA‑256) آتا ہے، تاکہ سالمیت جانچی جا سکے اور ایپ خود کو اپ ڈیٹ کر سکے۔
 
@@ -131,6 +131,6 @@
 
 **© sanxuatphim.com — جملہ حقوق محفوظ ہیں۔**
 
-یہ ریپوزٹری صرف **پیکج شدہ ریلیزز** اور `checksums.json` رکھتی ہے۔ سورس کوڈ عوامی نہیں ہے۔
+S3 صرف **پیکج شدہ ریلیزز** اور `checksums.json` رکھتی ہے۔ سورس کوڈ عوامی نہیں ہے۔
 
 </div>

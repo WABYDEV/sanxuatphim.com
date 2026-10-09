@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Pobierz](https://img.shields.io/badge/Pobierz-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![Pobierz](https://img.shields.io/badge/Pobierz-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@ Korzystasz z planów, za które już płacisz. Aplikacja loguje się przez osobn
 
 ## ⬇️ Pobierz
 
-Pobierz wersję dla swojego systemu ze **[strony Releases](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)**:
+Pobierz wersję dla swojego systemu ze **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)**:
 
 | Platforma | Plik | Jak uruchomić |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<wersja>-Windows-64bit.exe` | Pobierz i uruchom |
-| **Windows** ARM64 | `SanXuatPhim-<wersja>-Windows-ARM64.exe` | Pobierz i uruchom |
-| **Linux** 64-bit | `SanXuatPhim-<wersja>-Linux-64bit` | `chmod +x`, potem uruchom |
-| **macOS** (universal) | `SanXuatPhim-<wersja>-macOS.zip` | Rozpakuj, aby otrzymać `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | Pobierz i uruchom |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | Pobierz i uruchom |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x`, potem uruchom |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | Rozpakuj, aby otrzymać `.app` |
 
 Każde wydanie zawiera **`checksums.json`** (nazwa · rozmiar · SHA‑256 każdego pliku) do weryfikacji integralności i automatycznej aktualizacji aplikacji.
 
@@ -127,6 +127,6 @@ Aplikacja czyta `checksums.json` najnowszego wydania i aktualizuje się w miejsc
 
 **© sanxuatphim.com — Wszelkie prawa zastrzeżone.**
 
-To repozytorium zawiera tylko **spakowane wydania** i `checksums.json`. Kod źródłowy nie jest publiczny.
+S3 zawiera tylko **spakowane wydania** i `checksums.json`. Kod źródłowy nie jest publiczny.
 
 </div>

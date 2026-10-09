@@ -15,7 +15,7 @@
 
 <br/>
 
-[![İndir](https://img.shields.io/badge/%C4%B0ndir-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![İndir](https://img.shields.io/badge/%C4%B0ndir-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@ Zaten ödediğiniz planları kullanırsınız. Uygulama ayrı Chrome profilleriy
 
 ## ⬇️ İndir
 
-Sisteminize uygun sürümü **[Releases sayfasından](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)** alın:
+Sisteminize uygun sürümü **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)** alın:
 
 | Platform | Dosya | Nasıl çalıştırılır |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<sürüm>-Windows-64bit.exe` | İndirip çalıştırın |
-| **Windows** ARM64 | `SanXuatPhim-<sürüm>-Windows-ARM64.exe` | İndirip çalıştırın |
-| **Linux** 64-bit | `SanXuatPhim-<sürüm>-Linux-64bit` | `chmod +x` sonra çalıştırın |
-| **macOS** (universal) | `SanXuatPhim-<sürüm>-macOS.zip` | `.app` için arşivden çıkarın |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | İndirip çalıştırın |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | İndirip çalıştırın |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` sonra çalıştırın |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | `.app` için arşivden çıkarın |
 
 Her sürüm, bütünlüğü doğrulamak ve uygulamanın kendini güncelleyebilmesi için bir **`checksums.json`** (her dosyanın adı · boyutu · SHA‑256) içerir.
 
@@ -127,6 +127,6 @@ Uygulama en son sürümün `checksums.json` dosyasını okur ve **Windows ve Lin
 
 **© sanxuatphim.com — Tüm hakları saklıdır.**
 
-Bu depo yalnızca **paketlenmiş sürümleri** ve `checksums.json` dosyasını barındırır. Kaynak kod herkese açık değildir.
+S3 yalnızca **paketlenmiş sürümleri** ve `checksums.json` dosyasını barındırır. Kaynak kod herkese açık değildir.
 
 </div>

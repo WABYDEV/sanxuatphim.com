@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Скачать](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![Скачать](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@
 
 ## ⬇️ Скачать
 
-Возьмите сборку для вашей системы на **[странице Releases](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)**:
+Возьмите сборку для вашей системы на **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)**:
 
 | Платформа | Файл | Как запустить |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<версия>-Windows-64bit.exe` | Скачайте и запустите |
-| **Windows** ARM64 | `SanXuatPhim-<версия>-Windows-ARM64.exe` | Скачайте и запустите |
-| **Linux** 64-bit | `SanXuatPhim-<версия>-Linux-64bit` | `chmod +x`, затем запустите |
-| **macOS** (universal) | `SanXuatPhim-<версия>-macOS.zip` | Распакуйте, чтобы получить `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | Скачайте и запустите |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | Скачайте и запустите |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x`, затем запустите |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | Распакуйте, чтобы получить `.app` |
 
 Каждая сборка содержит **`checksums.json`** (имя · размер · SHA‑256 каждого файла) для проверки целостности и для самообновления приложения.
 
@@ -127,6 +127,6 @@
 
 **© sanxuatphim.com — Все права защищены.**
 
-В этом репозитории размещены только **упакованные релизы** и `checksums.json`. Исходный код закрыт.
+S3 размещены только **упакованные релизы** и `checksums.json`. Исходный код закрыт.
 
 </div>

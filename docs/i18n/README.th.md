@@ -15,7 +15,7 @@
 
 <br/>
 
-[![ดาวน์โหลด](https://img.shields.io/badge/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![ดาวน์โหลด](https://img.shields.io/badge/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@
 
 ## ⬇️ ดาวน์โหลด
 
-รับรุ่นสำหรับระบบของคุณได้ที่ **[หน้า Releases](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)**:
+รับรุ่นสำหรับระบบของคุณได้ที่ **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)**:
 
 | แพลตฟอร์ม | ไฟล์ | วิธีเปิดใช้ |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<เวอร์ชัน>-Windows-64bit.exe` | ดาวน์โหลดแล้วเปิดใช้ |
-| **Windows** ARM64 | `SanXuatPhim-<เวอร์ชัน>-Windows-ARM64.exe` | ดาวน์โหลดแล้วเปิดใช้ |
-| **Linux** 64-bit | `SanXuatPhim-<เวอร์ชัน>-Linux-64bit` | `chmod +x` แล้วเปิดใช้ |
-| **macOS** (universal) | `SanXuatPhim-<เวอร์ชัน>-macOS.zip` | แตกไฟล์เพื่อรับ `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | ดาวน์โหลดแล้วเปิดใช้ |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | ดาวน์โหลดแล้วเปิดใช้ |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` แล้วเปิดใช้ |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | แตกไฟล์เพื่อรับ `.app` |
 
 ทุกรุ่นมาพร้อม **`checksums.json`** (ชื่อ · ขนาด · SHA‑256 ของแต่ละไฟล์) เพื่อตรวจความสมบูรณ์และให้แอปอัปเดตตัวเองได้
 
@@ -127,6 +127,6 @@
 
 **© sanxuatphim.com — สงวนลิขสิทธิ์**
 
-ที่เก็บนี้โฮสต์เฉพาะ **รุ่นที่แพ็กแล้ว** และ `checksums.json` ซอร์สโค้ดไม่เปิดเผย
+S3โฮสต์เฉพาะ **รุ่นที่แพ็กแล้ว** และ `checksums.json` ซอร์สโค้ดไม่เปิดเผย
 
 </div>

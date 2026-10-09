@@ -15,7 +15,7 @@
 
 <br/>
 
-[![डाउनलोड](https://img.shields.io/badge/%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%B2%E0%A5%8B%E0%A4%A1-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![डाउनलोड](https://img.shields.io/badge/%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%B2%E0%A5%8B%E0%A4%A1-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@
 
 ## ⬇️ डाउनलोड
 
-अपने सिस्टम के लिए बिल्ड **[Releases पेज](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)** से लें:
+अपने सिस्टम के लिए बिल्ड **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)** से लें:
 
 | प्लेटफ़ॉर्म | फ़ाइल | कैसे चलाएँ |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<संस्करण>-Windows-64bit.exe` | डाउनलोड करें और चलाएँ |
-| **Windows** ARM64 | `SanXuatPhim-<संस्करण>-Windows-ARM64.exe` | डाउनलोड करें और चलाएँ |
-| **Linux** 64-bit | `SanXuatPhim-<संस्करण>-Linux-64bit` | `chmod +x` फिर चलाएँ |
-| **macOS** (universal) | `SanXuatPhim-<संस्करण>-macOS.zip` | `.app` पाने के लिए अनज़िप करें |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | डाउनलोड करें और चलाएँ |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | डाउनलोड करें और चलाएँ |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` फिर चलाएँ |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | `.app` पाने के लिए अनज़िप करें |
 
 हर रिलीज़ के साथ **`checksums.json`** (हर फ़ाइल का नाम · आकार · SHA‑256) आता है, ताकि अखंडता जाँची जा सके और ऐप खुद को अपडेट कर सके।
 
@@ -127,6 +127,6 @@
 
 **© sanxuatphim.com — सर्वाधिकार सुरक्षित।**
 
-यह रिपॉज़िटरी केवल **पैकेज की गई रिलीज़** और `checksums.json` रखती है। स्रोत कोड सार्वजनिक नहीं है।
+S3 केवल **पैकेज की गई रिलीज़** और `checksums.json` रखती है। स्रोत कोड सार्वजनिक नहीं है।
 
 </div>

@@ -15,7 +15,7 @@
 
 <br/>
 
-[![下載](https://img.shields.io/badge/%E4%B8%8B%E8%BC%89-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![下載](https://img.shields.io/badge/%E4%B8%8B%E8%BC%89-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@
 
 ## ⬇️ 下載
 
-在 **[Releases 頁面](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)** 取得適合你系統的版本：
+在 **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)** 取得適合你系統的版本：
 
 | 平台 | 檔案 | 執行方式 |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<版本>-Windows-64bit.exe` | 下載後直接執行 |
-| **Windows** ARM64 | `SanXuatPhim-<版本>-Windows-ARM64.exe` | 下載後直接執行 |
-| **Linux** 64-bit | `SanXuatPhim-<版本>-Linux-64bit` | `chmod +x` 後執行 |
-| **macOS** (universal) | `SanXuatPhim-<版本>-macOS.zip` | 解壓縮取得 `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | 下載後直接執行 |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | 下載後直接執行 |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` 後執行 |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | 解壓縮取得 `.app` |
 
 每個版本都附帶 **`checksums.json`**（每個檔案的名稱 · 大小 · SHA‑256），用於校驗完整性並供應用程式自動更新。
 
@@ -127,6 +127,6 @@
 
 **© sanxuatphim.com —— 保留一切權利。**
 
-本儲存庫僅託管**打包發佈版本**與 `checksums.json`。原始碼不公開。
+S3僅託管**打包發佈版本**與 `checksums.json`。原始碼不公開。
 
 </div>

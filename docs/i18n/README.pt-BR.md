@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Baixar](https://img.shields.io/badge/Baixar-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![Baixar](https://img.shields.io/badge/Baixar-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@ Você usa os planos que já paga. O app faz login por perfis separados do Chrome
 
 ## ⬇️ Baixar
 
-Pegue a versão para o seu sistema na **[página de Releases](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)**:
+Pegue a versão para o seu sistema na **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)**:
 
 | Plataforma | Arquivo | Como executar |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<versão>-Windows-64bit.exe` | Baixe e execute |
-| **Windows** ARM64 | `SanXuatPhim-<versão>-Windows-ARM64.exe` | Baixe e execute |
-| **Linux** 64-bit | `SanXuatPhim-<versão>-Linux-64bit` | `chmod +x` e execute |
-| **macOS** (universal) | `SanXuatPhim-<versão>-macOS.zip` | Descompacte para obter o `.app` |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | Baixe e execute |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | Baixe e execute |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` e execute |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | Descompacte para obter o `.app` |
 
 Cada versão traz um **`checksums.json`** (nome · tamanho · SHA‑256 de cada arquivo) para verificar a integridade e para o app se atualizar sozinho.
 
@@ -127,6 +127,6 @@ O app lê o `checksums.json` da versão mais recente e se atualiza no lugar no *
 
 **© sanxuatphim.com — Todos os direitos reservados.**
 
-Este repositório hospeda apenas as **versões empacotadas** e o `checksums.json`. O código-fonte não é público.
+S3 hospeda apenas as **versões empacotadas** e o `checksums.json`. O código-fonte não é público.
 
 </div>

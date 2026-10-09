@@ -15,7 +15,7 @@
 
 <br/>
 
-[![ডাউনলোড](https://img.shields.io/badge/%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A6%B2%E0%A7%8B%E0%A6%A1-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)
+[![ডাউনলোড](https://img.shields.io/badge/%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A6%B2%E0%A7%8B%E0%A6%A1-Releases-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)
 [![Website](https://img.shields.io/badge/Website-sanxuatphim.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanxuatphim.com)
 
 <br/>
@@ -75,14 +75,14 @@
 
 ## ⬇️ ডাউনলোড
 
-আপনার সিস্টেমের বিল্ড নিন **[Releases পৃষ্ঠা](https://github.com/WABYDEV/sanxuatphim.com/releases/latest)** থেকে:
+আপনার সিস্টেমের বিল্ড নিন **[all.zip · S3](https://s3.upgo.io/sanxuatphim/releases/latest/all.zip)** থেকে:
 
 | প্ল্যাটফর্ম | ফাইল | কীভাবে চালাবেন |
 |---|---|---|
-| **Windows** 64-bit (x64) | `SanXuatPhim-<সংস্করণ>-Windows-64bit.exe` | ডাউনলোড করে চালান |
-| **Windows** ARM64 | `SanXuatPhim-<সংস্করণ>-Windows-ARM64.exe` | ডাউনলোড করে চালান |
-| **Linux** 64-bit | `SanXuatPhim-<সংস্করণ>-Linux-64bit` | `chmod +x` তারপর চালান |
-| **macOS** (universal) | `SanXuatPhim-<সংস্করণ>-macOS.zip` | `.app` পেতে আনজিপ করুন |
+| **Windows** 64-bit (x64) | [`SanXuatPhim-Windows-64bit.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-64bit.exe) | ডাউনলোড করে চালান |
+| **Windows** ARM64 | [`SanXuatPhim-Windows-ARM64.exe`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Windows-ARM64.exe) | ডাউনলোড করে চালান |
+| **Linux** 64-bit | [`SanXuatPhim-Linux-64bit`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-Linux-64bit) | `chmod +x` তারপর চালান |
+| **macOS** (universal) | [`SanXuatPhim-macOS.zip`](https://s3.upgo.io/sanxuatphim/releases/latest/SanXuatPhim-macOS.zip) | `.app` পেতে আনজিপ করুন |
 
 প্রতিটি রিলিজে **`checksums.json`** (প্রতিটি ফাইলের নাম · আকার · SHA‑256) থাকে, যাতে অখণ্ডতা যাচাই করা যায় ও অ্যাপ নিজেকে আপডেট করতে পারে।
 
@@ -127,6 +127,6 @@
 
 **© sanxuatphim.com — সর্বস্বত্ব সংরক্ষিত।**
 
-এই রিপোজিটরি কেবল **প্যাকেজ করা রিলিজ** ও `checksums.json` রাখে। সোর্স কোড পাবলিক নয়।
+S3 কেবল **প্যাকেজ করা রিলিজ** ও `checksums.json` রাখে। সোর্স কোড পাবলিক নয়।
 
 </div>
